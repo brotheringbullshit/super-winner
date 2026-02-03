@@ -3,3 +3,4 @@ super miscellaneous codes that has no reason to exist but does. Just to note; al
 
 ## what is codex
 things made with codex, thats it.
+yes, they are tested and my expectations for ai code is none.
